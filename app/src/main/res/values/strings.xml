@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_kotlin">Котлин - объектно-ориентированный язык?</string>
+    <string name="question_c_plus_lus">Юнити испольует C++?</string>
+    <string name="question_python">Python - самый популярный язык программирования?</string>
+    <string name="true_button">Верно</string>
+    <string name="false_button">Ложно</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button"><![CDATA[Next >]]></string>
+    <string name="prev_button"><![CDATA[< PREV]]></string>
+</resources>
